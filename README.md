@@ -2,6 +2,9 @@
 
 #### My name is Miles Wildmore. I am a web developer with background of designing in the front end side, and learning the back end side. My expertise and knowledge are in designing the webpage to look as pretty as possible and creating wireframes for the projects I am involved with. I look forward to more projects in the future based on animation on websites to bring life and visual appeal to everyone who visits them.
 
+# My Experiences:
+
+## HTML, CSS, POSTGRES, REACT, Express, Node
 
 <!--
 **mileswildmore18/mileswildmore18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,8 +4,12 @@
 
 # My Experiences:
 
-## HTML, CSS, POSTGRES, REACT, Express, Node
+## HTML, CSS, POSTGRES, REACT, Express, Node, JavaScript, Bootstrap
 
+# Current Projects
+
+Working for Cloud Nexus IT Solutions to build their website from the ground, and gaining more experience through Bootstrap.
+https://github.com/maximo5741/CloudNexusHomePage
 <!--
 **mileswildmore18/mileswildmore18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,6 +3,7 @@
 #### My name is Miles Wildmore. I am a web developer with background of designing in the front end side, and learning the back end side. My expertise and knowledge are in designing the webpage to look as pretty as possible and creating wireframes for the projects I am involved with. I look forward to more projects in the future based on animation on websites to bring life and visual appeal to everyone who visits them.
 
 # My Experiences:
+![make-responsive-website-using-html-css-tailwind-css-and-javascript](https://github.com/user-attachments/assets/4467908a-29c2-42c2-80c6-3b6bc9df4311)
 
 ## HTML, CSS, POSTGRES, REACT, Express, Node, JavaScript, Bootstrap, Tailwind, Three.js
 

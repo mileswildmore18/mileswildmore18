@@ -8,9 +8,8 @@
 
 # Current Projects
 
-Working for Cloud Nexus IT Solutions to build their website from the ground, and gaining more experience through Bootstrap.
+Working on websites to show my experience on web developing
 Also Working on my updated Portfolio for jobs out there.
-https://github.com/maximo5741/CloudNexusHomePage
 https://github.com/mileswildmore18/3D-Portfolio
 <!--
 **mileswildmore18/mileswildmore18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

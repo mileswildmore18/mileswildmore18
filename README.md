@@ -10,8 +10,8 @@
 # Current Projects
 
 Working on websites to show my experience on web developing
-Also Working on my updated Portfolio for jobs out there.
-https://github.com/mileswildmore18/3D-Portfolio
+https://github.com/mileswildmore18/Xora
+
 <!--
 **mileswildmore18/mileswildmore18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
